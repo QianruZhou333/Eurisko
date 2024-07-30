@@ -1,3 +1,6 @@
+Eurisko by Douglas Lenat, discovered by whiteflame, revised by Seveno4, I add a small function to write the log into file 'myfile', besides printing on the screen, so that you can check what Eurisko has learnt. Command and references are at the end.
+
+# 正文 Introduction (in Chinese)
 “斯坦福大学教授 Douglas Lenat 写的一个真正意义上的AI，使用最朴素最本原的数学方法，让机器自己发现新的事物，揭示新的规律。从集合的思想起源，把一些有意思的概念一点点的喂给机器，它就自己学会了计数、加法、乘法…...然后它发现了质数的概念，直到最后…...它发现了哥德巴赫猜想!”    
 
         ---- 集异壁 GEB 《 Gödel, Escher, Bach》
